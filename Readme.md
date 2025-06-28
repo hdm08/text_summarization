@@ -20,7 +20,8 @@ Python 3.10+ (for running the notebook locally)
 
 Node.js 18+ (for local frontend development, optional)
 
-facebook/bart-large-cnn model which is installed and stored in ./backend/models/ or can be intalled using code in notebook
+facebook/bart-large-cnn model which can be intalled using code in notebook/demo_notebook.ipynb
+since the model size is 1.6GB, it is not uploaded to Github
 
 # Setup Instructions:
 Build and Run with Docker Compose: docker-compose up --build
