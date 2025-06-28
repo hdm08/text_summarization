@@ -1,0 +1,27 @@
+*.pyc 
+pycache/ 
+*.pyo 
+*.pyd 
+.Python 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+*.env 
+.env.!.env.example 
+*.sqlite3 
+*.db migrations/ 
+*.log 
+*.py[cod] 
+staticfiles/ 
+media/
+node_modules/ 
+npm-debug.log 
+build/ 
+dist/ 
+.parcel-cache 
+.cache 
+*.env.
+.vscode/ 
+.DS_Store
